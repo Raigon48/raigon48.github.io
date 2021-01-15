@@ -39,7 +39,7 @@ main {
     padding-right : 100px;
 }
 
-menu {
+nav {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
@@ -47,28 +47,28 @@ menu {
     border-bottom : 1px solid #273852;
 }
 
-menu h5 {
+nav h5 {
     margin-bottom: 10px;
     font-weight : 600;
 }
 
-menu select {
+nav select {
     padding : 10px;
     width: 300px;
     border : 1px solid #232323;
 }
-menu form div {
+nav form div {
     display : flex;
     align-items: stretch;
     border : 1px solid #232323;
 }
-menu input {
+nav input {
     padding : 10px;
     width: 200px;
     margin: 0;
     border : none;
 }
-menu form button {
+nav form button {
     height: 100%;
     padding : 10px;
     margin: 0;
@@ -178,7 +178,7 @@ footer h5 {
      main {
          padding: 40px;
      }
-     menu {
+     nav {
          flex-direction: column;
          justify-content: center;
          align-items: center;
