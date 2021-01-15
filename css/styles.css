@@ -98,7 +98,7 @@ nav form button {
     width : 300px;
 }
 
-.blogList > article > section h1 {
+.blogList > article > section h2 {
     font-size: 1.6rem;
     color : #273852;
     margin-bottom : 5px;
